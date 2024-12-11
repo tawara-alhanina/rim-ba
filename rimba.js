@@ -332,7 +332,7 @@ var {css,data}=web.model.clients;
 
 out=`<div class="row center">
 <div class="center">
-<b">clients Who love to work with us</b>
+<b">Our Happy Clients</b>
 </div>
 `;
 for(i in data){ val=data[i]
@@ -348,7 +348,7 @@ var {css,data}=web.model.portofolio;
 
 out=`<div class="row center">
 <div class="center">
-<b>Portofolio Our Awesome Works</b>
+<b>Our Portfolio</b>
 <p class="section-sub-title">Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nulla vitae elit libero, a <br> pharetra augue. Donec id elit non mi porta gravida at eget metus.</p>
 </div>
 <figure>`;
