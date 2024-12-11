@@ -278,8 +278,8 @@ var {css,data}=web.model.about;
 
 out=`<div class="row center artikel">
 <div class="center">
-<b>About The easiest way <br>to build<b> websites online</b></b>
-<p class="section-sub-title">Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nulla vitae elit libero, a <br> pharetra augue. Donec id elit non mi porta gravida at eget metus.</p>
+<b>Build a Website <br>for<b> Less than 2 Hours</b></b>
+<p class="section-sub-title">Buat website anda dalam waktu kurang dari 120 menit! Buktikan sendiri.</p>
 </div>
 `;
 
@@ -364,7 +364,7 @@ web.view.features=function(arr){
 var {css,data}=web.model.features;
 out=`<div class="row center">
 <div class="center">
-<b> features Our Awesome Works</b>
+<b> Features Our Awesome Works</b>
 <p class="section-sub-title">Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nulla vitae elit libero, a <br> pharetra augue. Donec id elit non mi porta gravida at eget metus.</p>
 </div>`;
 
